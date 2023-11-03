@@ -3,6 +3,9 @@
 In this project, I am going to use ROS2 foxy and the OS is ubunutu 20.04.
 So you can read and follow each step on this doc https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html
 
+![image](https://github.com/salaithianlianben/yolox_ros/assets/91866682/81ab374e-690a-42e0-abe0-45d0de8eac33)
+
+
 ### Setup
 - Step 1 Create ROS workspace 
 ```bash
