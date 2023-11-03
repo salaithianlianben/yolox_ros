@@ -1,0 +1,14 @@
+setup.cfg
+setup.py
+../weights/yolox_nano.onnx
+../weights/yolox_nano.pth
+./launch/yolox_nano_torch_gpu_camera.launch.py
+yolox_ros/__init__.py
+yolox_ros/yolox_ros.py
+yolox_ros.egg-info/PKG-INFO
+yolox_ros.egg-info/SOURCES.txt
+yolox_ros.egg-info/dependency_links.txt
+yolox_ros.egg-info/entry_points.txt
+yolox_ros.egg-info/requires.txt
+yolox_ros.egg-info/top_level.txt
+yolox_ros.egg-info/zip-safe
